@@ -9,7 +9,7 @@ Thanks for stopping by, I hope you enjoy your time here!
 
 > ### See Me in Other Platform :)
 
-- [Resume](https://drive.google.com/file/d/1mEAmF6onPbz04FM6ZkFjF7sTX3dSnf61/view?usp=sharing) 
+- [Resume](https://drive.google.com/file/d/1tdep7DxMEV6Gb_hHiwNaFLJYs0khh4bA/view?usp=drive_link) 
 
 - [Linkedin](https://www.linkedin.com/in/rafifdna/)
 
