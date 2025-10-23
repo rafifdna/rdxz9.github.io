@@ -1,7 +1,5 @@
 # About
 
-As a Site Reliability Engineer, I am passionate about the stability, performance, and scalability of cloud-native systems. My expertise is centered on the AWS ecosystem, where I design and manage infrastructure using tools like Terraform and CloudFormation. I have extensive experience in the containerization lifecycle, from building Docker images to orchestrating complex applications with Kubernetes (EKS).
-
 I consider myself a lifelong learner, always eager to deepen my knowledge in fields that make a meaningful impact on people’s lives. If you’d like to learn more about me, feel free to explore my blog. 
 
 Thanks for stopping by, I hope you enjoy your time here!
